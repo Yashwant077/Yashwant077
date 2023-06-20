@@ -1,5 +1,4 @@
-[!MasterHead(https://camo.githubusercontent.com/b4b9424b0f460f15a9cc8d1ff8a4b867e44a893723c34ee694eb221ae14daa5c/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)]
-<h1 align="center">Hi 👋, I'm Yashwant Choudhary</h1>
+<h1 align="center">Hi 👋, I'm Yashwant Kumar Choudhary</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
@@ -8,18 +7,19 @@
 
 - 🔭 I’m currently working on **SAN project**
 
-- 🌱 I’m currently learning **flask, Django, and AWS Cloud**
+- 🌱 I’m currently learning **flask, Django, and AWS Cloud.**
 
 - 👯 I’m looking to collaborate on **web development projects**
 
-- 💬 Ask me about **C, C++, Linux, Python**
+- 💬 Ask me about **anything.**
 
-- 📫 How to reach me **yashwant07081@gmail.com**
+- ⚡ Fun fact **I love pondering over How this universe works.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yashwant-choudhary-72b67b143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashwant-choudhary-72b67b143" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yashwant07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashwant07" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ykc07081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ykc07081" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,3 +28,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashwant077&show_icons=true&locale=en&layout=compact" alt="yashwant077" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwant077&" alt="yashwant077" /></p>
+
