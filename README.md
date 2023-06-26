@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **flask, Django, and AWS Cloud**.
 
-- 👯 I’m looking to collaborate on **web development projects**.
+- 👯 I’m looking to collaborate on **C, C++, Unix Project**.
 
 - 💬 Ask me about **anything**.
 
