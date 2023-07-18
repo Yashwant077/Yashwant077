@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **SAN project @ Capgemini India**.
 
-- 🌱 I’m currently learning **Flask, Django, and AWS Cloud**.
+- 🌱 I’m currently learning **System Design, and AWS Cloud**.
 
 - 👯 I’m looking to collaborate on **C, C++, Unix Project**.
 
